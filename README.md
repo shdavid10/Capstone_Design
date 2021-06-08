@@ -17,4 +17,4 @@
 
 1차 회의 : [github][meetings]
 
-[meetings] : 
+[meetings] : https://github.com/shdavid10/Capstone_Design/blob/main/meeting/firstt%20meeting.md
