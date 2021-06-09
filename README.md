@@ -51,7 +51,7 @@
   [link] : https://github.com/shdavid10/Capstone_Design/tree/main/arduino
   
   
-# 활동 사진
+# 구현 사진
 
 링크 : 
 
