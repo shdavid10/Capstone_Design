@@ -46,7 +46,9 @@
   
   ->html
   
+  링크 : [github][link]
   
+  [link] : https://github.com/shdavid10/Capstone_Design/tree/main/arduino
   
 # 포스터
 ![포스터 사진](0001.jpg)
