@@ -46,14 +46,14 @@
   
   ->html
   
-  링크 : [github][link]
+  링크 : 
   
   [link] : https://github.com/shdavid10/Capstone_Design/tree/main/arduino
   
   
 # 활동 사진
 
-링크 : [github][link]
+링크 : 
 
 [link] : https://github.com/shdavid10/Capstone_Design/blob/main/ProjectImages/dsa.md
   
@@ -62,6 +62,6 @@
   
 # 회의록
 
-링크 : [github][link]
+링크 : 
 
 [link] : https://github.com/shdavid10/Capstone_Design/tree/main/meeting
