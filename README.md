@@ -50,6 +50,13 @@
   
   [link] : https://github.com/shdavid10/Capstone_Design/tree/main/arduino
   
+  
+# 활동 사진
+
+링크 : [github][link]
+
+[link] : https://github.com/shdavid10/Capstone_Design/blob/main/ProjectImages/dsa.md
+  
 # 포스터
 ![포스터 사진](0001.jpg)
   
