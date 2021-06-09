@@ -78,7 +78,11 @@
   
 # 구현 사진
 
- 링크 : 
+아두이노 회로도 그림
+
+![아두이노 회로도](image1.png)
+
+ 그 외의 이미지 링크 : 
 
  https://github.com/shdavid10/Capstone_Design/blob/main/ProjectImages/dsa.md
 
