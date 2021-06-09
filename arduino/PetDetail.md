@@ -1,7 +1,5 @@
 # PetDetail.html 
 
-
-
 <!DOCTYPE html>
 <html>
 <meta charset="UTF-8">
