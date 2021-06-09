@@ -29,6 +29,6 @@
   
 # 회의록
 
-1차 회의 : [github][link]
+링크 : [github][link]
 
-[link] : https://github.com/shdavid10/Capstone_Design/blob/main/meeting/firstt%20meeting.md
+[link] : https://github.com/shdavid10/Capstone_Design/tree/main/meeting
