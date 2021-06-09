@@ -78,9 +78,17 @@
   
 # 구현 사진
 
-링크 : 
+ 링크 : 
 
-[link] : https://github.com/shdavid10/Capstone_Design/blob/main/ProjectImages/dsa.md
+ https://github.com/shdavid10/Capstone_Design/blob/main/ProjectImages/dsa.md
+
+
+# 라즈베리파이 db 구축 이미지
+
+ 링크 : 
+
+ https://github.com/shdavid10/Capstone_Design/tree/main/db
+
   
 # 포스터
 ![포스터 사진](0001.jpg)
