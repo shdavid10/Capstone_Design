@@ -60,6 +60,10 @@
   불러온 데이터를 HTML 페이지에 업데이트함.
 
 
+# 일정표
+
+https://github.com/shdavid10/Capstone_Design/tree/main/date
+
 
 # 사용 코드
 
