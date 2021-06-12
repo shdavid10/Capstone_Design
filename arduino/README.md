@@ -6,3 +6,8 @@
 * MQTT프로토콜 시스템 구조도
 
 ![mqtt proto](image05.png)
+
+
+* MQTT프로토콜 시스템 시퀀스 다이어그램
+
+![mqtt proto](image06.png)
